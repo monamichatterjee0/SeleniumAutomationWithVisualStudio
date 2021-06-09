@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/t-mobile/.dotnet/store/|arch|/|tfm|",
+      "/Users/t-mobile/.nuget/packages"
+    ]
+  }
+}

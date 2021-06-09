@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EAD8FD51-7940-4B9B-B3C0-7257752E7BE9}|Default">
+  <MonoDevelop.Ide.ItemProperties.AutomationWithCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutomationWithCSharp/AllPractice/Polymorphism.cs">
+    <Files>
+      <File FileName="AutomationWithCSharp/Student.cs" Line="26" Column="15" />
+      <File FileName="AutomationWithCSharp/AllPractice/Polymorphism.cs" Line="6" Column="34" />
+      <File FileName="AutomationWithCSharp/AllPractice/SwitchCase.cs" />
+      <File FileName="AutomationWithCSharp/AllPractice/Constructor.cs" />
+      <File FileName="AutomationWithCSharp/AllPractice/HumanInheritenceExample.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutomationWithCSharp" expanded="True">
+            <Node name="AutomationWithCSharp" expanded="True">
+              <Node name="AllPractice" expanded="True">
+                <Node name="Polymorphism.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
